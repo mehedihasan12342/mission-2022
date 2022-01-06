@@ -10,6 +10,8 @@ h1{
 .flexible-container{
     display: flex;
 }
+
+
 .half-width{
     width: 50%;
     padding-left: 5%;
@@ -30,5 +32,8 @@ section{
     margin-bottom: 150px;
 }
 .block-title{
+    text-align: center;
+}
+footer {
     text-align: center;
 }
